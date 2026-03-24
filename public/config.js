@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/czr_dex",
   "VITE_SEO_SITE_NAME": "CZR DEX",
   "VITE_SEO_SITE_DESCRIPTION": "Trade perpetuals on CZR, the top DEX with low fees, deep liquidity, multi-chain support, high leverage and yield.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/czr-7499/",
+  "VITE_SEO_SITE_URL": "https://czrdex.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@czr_dex",
